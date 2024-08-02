@@ -15,10 +15,9 @@ E.commerce is a comprehensive e-commerce platform designed to provide a seamless
 
 ## Technologies
 
-- **Flutter**: For building the cross-platform mobile app.
-- **Firebase**: For authentication, database, and backend services.
-- **Dart**: Programming language used for Flutter development.
-
+- **Html**: define the content and layout of a page.
+- **Css**: making them visually appealing and responsive.
+- **JavaScript&Java**: llowing developers to enhance user experience and  portability across platforms due to the Java Virtual Machine (JVM).
 ## Installation
 
 To get started with the E.commerce app, follow these steps:
@@ -36,16 +35,6 @@ To get started with the E.commerce app, follow these steps:
    ```
 
 3. **Install Dependencies**
-
-   ```bash
-   flutter pub get
-   ```
-
-4. **Run the App**
-
-   ```bash
-   flutter run
-   ```
 
 ## Configuration
 
